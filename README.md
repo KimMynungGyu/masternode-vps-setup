@@ -16,7 +16,7 @@ Ping me at contact@marsmenschen.com for questions and send some crypto my way if
 BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
 ```
 
-![supported projects](/assets/collage.jpg)
+![supported projects](/images/collage.jpg)
 
 ## Supported cryptos
 
