@@ -22,24 +22,24 @@ BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
 
 | CRYPTO  | Logo | Url |
 |--------|--------------|-----|
-| PIVX |  ![PIVX](/assets/pivx.jpg){:class="img-responsive" width="64px"}  |  https://pivx.org/ |
-| DASH |  ![DASH](/assets/dash.jpg){:class="img-responsive" width="64px"}  | https://www.dash.org/ |
-| DESIRE |  ![DESIRE](/assets/desire.jpg){:class="img-responsive" width="64px"}  | https://github.com/lazyboozer/Desire  |
-| PURE |  ![PURE](/assets/pure.jpg){:class="img-responsive" width="64px"}  | https://github.com/puredev321/pure    |
-| ENT  |  ![ENT](/assets/ent.jpg){:class="img-responsive" width="64px"}  | http://ent.eternity-group.org/    |
-| SYNX |  ![SYNX](/assets/synx.jpg){:class="img-responsive" width="64px"}  | http://syndicatelabs.io/  |
-| CHC |  ![CHAIN](/assets/chain.jpg){:class="img-responsive" width="64px"}  | https://www.chaincoin.org/  |
-| ZEN |  ![ZEN](/assets/zen.jpg){:class="img-responsive" width="64px"}  | https://zensystem.io/  |
-| DP |  ![DPRICE](/assets/dprice.jpg){:class="img-responsive" width="64px"}  | http://digitalprice.org/  |
-| VIVO |  ![VIVO](/assets/vivo.jpg){:class="img-responsive" width="64px"}  | https://www.vivocrypto.com/  |
-| ITZ |  ![ITZ](/assets/itz.jpg){:class="img-responsive" width="64px"}  | https://interzone.space/  |
-| MEME |  ![MEME](/assets/meme.jpg){:class="img-responsive" width="64px"}  | http://www.memetic.ai/  |
-| ARC |  ![ARC](/assets/arc.jpg){:class="img-responsive" width="64px"}  | https://arcticcoin.org/  |
-| CRAVE |  ![CRAVE](/assets/crave.jpg){:class="img-responsive" width="64px"}  | https://www.craveproject.com/  |
-| PIE |  ![PIE](/assets/pie.jpg){:class="img-responsive" width="64px"}  | https://github.com/flintsoft/PIE  |
-| XCXT |  ![XCXT](/assets/xcxt.jpg){:class="img-responsive" width="64px"}  | http://coinonatx.com/  |
-| SCORE |  ![SCORE](/assets/score.jpg){:class="img-responsive" width="64px"}  | http://scorecoin.site/ |
-| BITSEND |  ![BITSEND](/assets/bitsend.jpg){:class="img-responsive" width="64px"}  | https://bitsend.info/ |
-| XZC |  ![ZCOIN](/assets/zcoin.jpg){:class="img-responsive" width="64px"}  | https://zcoin.io/ |
-| INSANE |  ![INSN](/assets/insane.jpg){:class="img-responsive" width="64px"}  | https://insanecoin.com/ |
-| XIOS | ![XIOS](/assets/xios.jpg){:class="img-responsive" width="64px"}  | https://bitcointalk.org/index.php?topic=2251159.0/ |
+| PIVX |  ![PIVX](/images/pivx.jpg)  |  https://pivx.org/ |
+| DASH |  ![DASH](/images/dash.jpg)  | https://www.dash.org/ |
+| DESIRE |  ![DESIRE](/images/desire.jpg)  | https://github.com/lazyboozer/Desire  |
+| PURE |  ![PURE](/images/pure.jpg)  | https://github.com/puredev321/pure    |
+| ENT  |  ![ENT](/images/ent.jpg)  | http://ent.eternity-group.org/    |
+| SYNX |  ![SYNX](/images/synx.jpg)  | http://syndicatelabs.io/  |
+| CHC |  ![CHAIN](/images/chain.jpg)  | https://www.chaincoin.org/  |
+| ZEN |  ![ZEN](/images/zen.jpg)  | https://zensystem.io/  |
+| DP |  ![DPRICE](/images/dprice.jpg)  | http://digitalprice.org/  |
+| VIVO |  ![VIVO](/images/vivo.jpg)  | https://www.vivocrypto.com/  |
+| ITZ |  ![ITZ](/images/itz.jpg)  | https://interzone.space/  |
+| MEME |  ![MEME](/images/meme.jpg)  | http://www.memetic.ai/  |
+| ARC |  ![ARC](/images/arc.jpg)  | https://arcticcoin.org/  |
+| CRAVE |  ![CRAVE](/images/crave.jpg)  | https://www.craveproject.com/  |
+| PIE |  ![PIE](/images/pie.jpg)  | https://github.com/flintsoft/PIE  |
+| XCXT |  ![XCXT](/images/xcxt.jpg)  | http://coinonatx.com/  |
+| SCORE |  ![SCORE](/images/score.jpg)  | http://scorecoin.site/ |
+| BITSEND |  ![BITSEND](/images/bitsend.jpg)  | https://bitsend.info/ |
+| XZC |  ![ZCOIN](/images/zcoin.jpg)  | https://zcoin.io/ |
+| INSANE |  ![INSN](/images/insane.jpg)  | https://insanecoin.com/ |
+| XIOS | ![XIOS](/images/xios.jpg)  | https://bitcointalk.org/index.php?topic=2251159.0/ |
